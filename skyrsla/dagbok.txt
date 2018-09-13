@@ -1,4 +1,18 @@
-14/12/2016
-Bjó til dagbók og uppfærði skýrslu
-12/01/2018
-Lagaði skýrslu sniðið
+﻿30/08/2018
+brainstorming, fengum hugmynd á suicide sprettum þar sem litir eru skynjaðir
+
+3/09/2018
+Fengum hugmynd á hátalarnotkun þar sem róbotinn getur sagt upphátt hvaða liti hann skynjar í sprettunum sem við munum láta hann gera,
+sáum að róbotinn væri með soundport en enga hátalara til að tengja, fengum hugmynd á lausn sem við gerum í næsta tíma.
+
+06/09/2018
+Tengdum víra með snúru úr heyrnatólum við þryggja pinna snúru sem fer í vex portið. Klipptum á báðar snúrurnar og tengdum þær en það virkaði ekki.
+
+10/09/2018
+Keyptum aux snúru með 3 vírum inn í til að tengja við þryggja pinna snúruna. Virkaði loksins að spila hljóð úr hátalaranum okkar. Svo við fórum að reyna spila okkar eigin hljóðskrár.
+Eftir smá erfiðleika virkaði það með að breyta hljóðunum og downloada þeim inn í forritið. Nú vantar bara fleiri skrár. Byrjuðum á skýrslunni um róbotinn.
+
+13/09/2018
+Kláruðum skýrsluna um róbotinn og fiktuðum með hljóðskrár, sem einhvernveginn virkuðu ekki almennilega því hljóðið varð allt of djúpt og enginn skyldi hvað róbotinn sagði.
+
+17/09/2018
