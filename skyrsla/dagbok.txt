@@ -15,5 +15,8 @@ Eftir smá erfiðleika virkaði það með að breyta hljóðunum og downloada �
 13/09/2018
 Kláruðum skýrsluna um róbotinn og fiktuðum með hljóðskrár, sem einhvernveginn virkuðu ekki almennilega því hljóðið varð allt of djúpt og enginn skyldi hvað róbotinn sagði.
 
-17/09/2018
-Byrjuðum á verkáætlun
+17/09/2018 - 1/11/2018
+Byrjuðum á verkáætlun, Lítið að gera í tímum. Gert bara eitthvað smávegis í skýrslum.
+
+1/11/2018
+Reyndum að laga tíðni í hljóðskrám en það virkaði ekki, hljóðið allt of djúpt sama hvað við reyndum með allskonar hljóð.

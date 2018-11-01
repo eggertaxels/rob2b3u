@@ -5,8 +5,8 @@
 task main()
 {
 	bPlaySounds = true;
-	nVolume = 10;
-	PlaySoundFile("yellow.wav");
+	nVolume = 7;
+	PlaySoundFile("Blue.wav");
 	//PlaySoundFile("sos");
 	wait1Msec(100);
 }
