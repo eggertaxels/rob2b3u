@@ -20,3 +20,6 @@ Byrjuðum á verkáætlun, Lítið að gera í tímum. Gert bara eitthvað smáv
 
 1/11/2018
 Reyndum að laga tíðni í hljóðskrám en það virkaði ekki, hljóðið allt of djúpt sama hvað við reyndum með allskonar hljóð.
+
+19/11/2018
+Gerðum Vélbúnaðarskýrslu og skiluðum því nauðsynlega.
